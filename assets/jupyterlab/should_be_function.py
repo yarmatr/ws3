@@ -1,6 +1,6 @@
 # wml_python_function
 def score(payload):
-    """AI function example.
+    """AI function example that was updated wow.
     
     Example:
       {
